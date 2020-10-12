@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<!-- This site was created in Webflow. http://www.webflow.com -->
+<!-- Last Published: Tue Jul 28 2020 16:47:20 GMT+0000 (Coordinated Universal Time) -->
+<html data-wf-domain="www.beaconadnetwork.com" data-wf-page="5a838955b22a1a0001922b08" data-wf-site="5a838955b22a1a0001922b07">
+  <head>
+    <meta charset="utf-8" />
+    <title>Christian Advertising | The Beacon Ad Network</title>
+    <meta content="The #1 Self-Service Christian Advertising Network for Agencies and Advertisers. Find the Christian Audiences you are looking for." name="description" />
+    <meta content="Christian Advertising | The Beacon Ad Network" property="og:title" />
+    <meta content="The #1 Self-Service Christian Advertising Network for Agencies and Advertisers. Find the Christian Audiences you are looking for." property="og:description" />
+    <meta content="https://assets.website-files.com/5a838955b22a1a0001922b07/5af0d91164b89748ea6d5200_Beacon_Ads_Com_Logo2_(1).png" property="og:image" />
+    <meta content="Christian Advertising | The Beacon Ad Network" property="twitter:title" />
+    <meta content="The #1 Self-Service Christian Advertising Network for Agencies and Advertisers. Find the Christian Audiences you are looking for." property="twitter:description" />
+    <meta content="https://assets.website-files.com/5a838955b22a1a0001922b07/5af0d91164b89748ea6d5200_Beacon_Ads_Com_Logo2_(1).png" property="twitter:image" />
+    <meta property="og:type" content="website" />
+    <meta content="summary_large_image" name="twitter:card" />
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <meta content="Webflow" name="generator" />
+    <link href="https://assets.website-files.com/5a838955b22a1a0001922b07/css/beacon-ads-2.webflow.e27d6eed7.css" rel="stylesheet" type="text/css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      WebFont.load({
+        google: {
+          families: ["Source Sans Pro:300,regular,600,700,900"]
+        }
+      });
+    </script>
+    <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif]-->
+    <script type="text/javascript">
+      ! function(o, c) {
+        var n = c.documentElement,
+          t = " w-mod-";
+        n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
+      }(window, document);
+    </script>
+    <link href="https://assets.website-files.com/5a838955b22a1a0001922b07/5af615844f02024b1d59f76e_Beacon_Ads_Favicon_Favicon_32x32%20(1).png" rel="shortcut icon" type="image/x-icon" />
+    <link href="https://assets.website-files.com/5a838955b22a1a0001922b07/5af6158af7343fa17518b211_Beacon_Ads_Webclip_Beacon_ads_Webclip%20(2).png" rel="apple-touch-icon" />
+    <script type="text/javascript">
+      (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function() {
+          (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+      })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+      ga('create', 'UA-119373197-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+  </head>
+  <body class="body">
+    <div class="section">
+      <div class="nav_bg w-clearfix">
+        <div class="div-block"><img src="https://assets.website-files.com/5a838955b22a1a0001922b07/5abc1e451380e02864c41d10_Beacon18_logo_v01_KC.svg" width="190" alt="Beacon logo" class="image" /></div>
+      </div>
+      <div class="container-4 w-container">
+        <h1 class="heading">The Beacon Ad Network<br/><span class="text-span"></span></h1>
+      </div>
+      <h3 class="heading-13"><span class="text-span-2">The #1 Self-service Christian Advertising Network for Agencies &amp; Advertisers</span></h3>
+    </div>
+    <div class="section-2">
+      <div class="div-block-3">
+        <h1 class="heading-2">Beacon Ad Network can help you reach your target Christian audience</h1>
+        <div class="row w-row">
+          <div class="column w-col w-col-1"><img src="https://assets.website-files.com/5a838955b22a1a0001922b07/5a8dec2eb7a50a0001e24fe3_target%20aud.svg" height="80" alt="magnifying glass over a person" class="image-6" />
+            <h3 class="heading-4">The Beacon Marketplace</h3>
+            <p class="paragraph">The legacy Marketplace features 230+ Christian blogs &amp; sites. Perfect for more tightly defined campaigns targeting niche Christian audiences. Offers both CPM &amp; Monthly Sponsorships. <br/>Log into your existing Beacon Ads account here:</p><a href="https://marketplace.beaconads.com" target="_blank" class="submit-button w-button">Beacon Marketplace</a></div>
+          <div class="column-5 w-col w-col-11"><img src="https://assets.website-files.com/5a838955b22a1a0001922b07/5a8dec2db7a50a0001e24fe2_marketing.svg" width="150" height="80" alt="megaphone with speech bubbles above it" class="image-13" />
+            <h3 class="heading-4">The NEW Beacon SSD</h3>
+            <p class="paragraph">The New Self-Serve Direct portal offers simple access to ad inventory on flagship Christian sites. Featuring larger Christian audiences &amp; impression avails, sold on a CPM basis.</p><a href="#wf-form-Agency-Inquiry-Form" target="_blank" class="submit-button w-button">Start your Campaign</a></div>
+        </div>
+      </div>
+      <div class="div-block-16">
+        <h2 class="heading-16">The NEW Beacon SSD gives you direct access to these Premiere Christian Publishers:</h2>
+      </div>
+      <div data-animation="slide" data-duration="500" data-infinite="1" class="slider w-slider">
+        <div class="mask w-slider-mask">
+          <div class="slide1 w-slide">
+            <div class="row-4 w-row">
+              <div class="column-2 w-col w-col-4">
+                <div class="div-block-4"><img src="https://assets.website-files.com/5a838955b22a1a0001922b07/5a84f9853b54f10001f4b53e_tgc_mark.svg" alt="TCG logo" data-w-id="c7dab57a-d8a5-c140-107f-0f43ad5bbbab" class="image-2" />
+                  <h3 class="heading-5"><a href="https://thegospelcoalition.bsa-whitelabel.com/checkout/new" target="_blank">The Gospel Coalition</a></h3>
+                  <p class="paragraph-2">With over 4M available monthly ad impressions, TGC gathers believers who take their faith seriously. Featured bloggers include Justin Taylor, Kevin DeYoung, Trevin Wax, Melissa Kruger, D. A. Carson, Thabiti Anyabwile and more.</p>
+                </div>
+              </div>
+              <div class="column-3 w-col w-col-4">
+                <div class="div-block-5"><img src="https://assets.website-files.com/5a838955b22a1a0001922b07/5a84f9843b54f10001f4b53c_blultrble_mark.svg" alt="Blue Letter Bible logo" data-w-id="cb43a89c-2ee3-918e-2c31-407a9613f962" class="image-3" />
+                  <h3 class="heading-5"><a target="_blank" href="https://blueletterbible.bsa-whitelabel.com/checkout/new">Blue Letter Bible</a></h3>
+                  <p class="paragraph-2">This premiere online Bible study site has over 12M available monthly ad impressions. BLB reaches people dedicated to in-depth study of God&#x27;s Word (in English, Greek, Hebrew, and other translations).</p>
+                </div>
+              </div>
+              <div class="column-4 w-col w-col-4">
+                <div class="div-block-6"><img src="https://assets.website-files.com/5a838955b22a1a0001922b07/5a84f98520c95100013e2330_chrtdy_mark.svg" alt="Christianity Today logo" data-w-id="bb075973-c2f7-71b5-7c2f-d166837c84cc" class="image-4" />
+                  <h3 class="heading-17"><a href="https://christianitytoday.bsa-whitelabel.com/checkout/new" target="_blank">Christianity Today</a></h3>
+                  <p class="paragraph-2">Featuring over 1M available monthly ad impressions, Christianity Today has cultivated a loyal audience of intellectually curious and devoted Christians, who influence the church, their community, and the broader culture to the glory of God.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="slide1 w-slide">
+            <div class="row-4 w-row">
+              <div class="column-2 w-col w-col-4">
+                <div class="div-block-4"><img src="https://assets.website-files.com/5a838955b22a1a0001922b07/5caba5d163ed011ee83f4b98_blog_transparent.jpg" data-w-id="60c74e3d-e12a-65df-0058-f4f9c621d64e" alt="" class="image-2" />
+                  <h3 class="heading-5"><a href="https://dougwils.bsa-whitelabel.com/checkout/new" target="_blank">BLOG &amp; MABLOG</a></h3>
+                  <p class="paragraph-2">The point of Blog &amp; Mablog is pretty broad — “All of Christ for all of life.” In order to make that happen, we need “theology that bites back.”</p>
+                </div>
+              </div>
+              <div class="column-3 w-col w-col-4">
+                <div class="div-block-5"><img src="https://assets.website-files.com/5a838955b22a1a0001922b07/5cab9b51daa62a3e37eb856f_Beacon%20Ads%20Logo%20LARGE%20-%20Clear%20Background%5B1%5D%20copy.png" data-w-id="60c74e3d-e12a-65df-0058-f4f9c621d655" alt="" class="image-3" />
+                  <h3 class="heading-5"><a href="https://coldcasechristianity.bsa-whitelabel.com/checkout/new" target="_blank">Cold Case Christianity</a></h3>
+                  <p class="paragraph-2">A Christian apologetics website that offers answers for seekers who are questioning the existence of God, while providing evidence to believers who want to share the truth of the Gospel.</p>
+                </div>
+              </div>
+              <div class="column-4 w-col w-col-4">
+                <div class="div-block-6"><img src="https://assets.website-files.com/5a838955b22a1a0001922b07/5c54c352b707445ec1c08231_biblememory-dot-com-icon140x140-transparent-cropped.png" data-w-id="60c74e3d-e12a-65df-0058-f4f9c621d65c" alt="" class="image-4" />
+                  <h3 class="heading-3"><a href="https://biblememory.bsa-whitelabel.com/checkout/new" target="_blank">BibleMemory</a></h3>
+                  <p class="paragraph-2"><a href="https://protect-us.mimecast.com/s/mqjyC0R3JKUwYYnSDjmzR?domain=biblememory.com">BibleMemory.com</a> offers over 1 million monthly ad impressions, reaching a broad range of committed Christians, including pastors, teachers, home-schoolers and anyone with a deep love for God&#x27;s Word.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="left-arrow w-slider-arrow-left">
+          <div class="arrow w-icon-slider-left"></div>
+        </div>
+        <div class="w-slider-arrow-right">
+          <div class="arrow w-icon-slider-right"></div>
+        </div>
+        <div class="slide-nav w-slider-nav w-round"></div>
+      </div>
+      <div class="desk-div-block-8 w-clearfix"><img src="https://assets.website-files.com/5a838955b22a1a0001922b07/5a84fc977152ef000134858d_quote.svg" width="52" alt="" class="image-9" />
+        <p class="paragraph-3">For the last decade, Christian advertisers have been successfully placing their own ad buys in the Beacon Marketplace, accessing the Christian audiences of over 200 unique faith-based bloggers and writers.<br/><br/>With the addition of the NEW Beacon <a href="#" target="_blank">Self-Serve Direct</a> portal, advertisers and agencies can now place larger buys on Beacon’s bigger Christian sites much more efficiently, enabling them to deploy campaigns with greater scale and at a faster pace.<br/><br/>If you have any questions, or need any assistance, please send an email to <a href="mailto:support@beaconads.com?subject=Beacon%20Question">support@beaconads.com</a>, or drop us a note via one of the forms below!</p><img src="https://assets.website-files.com/5a838955b22a1a0001922b07/5af6158af7343fa17518b211_Beacon_Ads_Webclip_Beacon_ads_Webclip%20(2).png" width="70" height="70" alt="" class="image-5" />
+        <div class="text-block">The Beacon Ad Network Team</div>
+      </div>
+      <div class="desk-div-block-9">
+        <div class="tablet-row-2 w-row">
+          <div class="desk-column-6 w-clearfix w-col w-col-6"><img src="https://assets.website-files.com/5a838955b22a1a0001922b07/5a84fdaa20c95100013e25d5_rawpixel-com-310778.jpg" alt="people with laptops at a table" srcset="https://assets.website-files.com/5a838955b22a1a0001922b07/5a84fdaa20c95100013e25d5_rawpixel-com-310778-p-1080.jpeg 1080w, https://assets.website-files.com/5a838955b22a1a0001922b07/5a84fdaa20c95100013e25d5_rawpixel-com-310778-p-1600.jpeg 1600w, https://assets.website-files.com/5a838955b22a1a0001922b07/5a84fdaa20c95100013e25d5_rawpixel-com-310778-p-2000.jpeg 2000w, https://assets.website-files.com/5a838955b22a1a0001922b07/5a84fdaa20c95100013e25d5_rawpixel-com-310778-p-2600.jpeg 2600w, https://assets.website-files.com/5a838955b22a1a0001922b07/5a84fdaa20c95100013e25d5_rawpixel-com-310778-p-3200.jpeg 3200w, https://assets.website-files.com/5a838955b22a1a0001922b07/5a84fdaa20c95100013e25d5_rawpixel-com-310778.jpg 6000w" sizes="(max-width: 767px) 100vw, 50vw" class="image-12" /></div>
+          <div class="column-7 w-clearfix w-col w-col-6">
+            <div class="div-block-10">
+              <h2 class="heading-9">Are you an Agency or an Advertiser looking for Managed Service Campaigns?</h2>
+              <h4 class="heading-14">We will help you hand off your entire campaign to the Beacon Ad Ops Team to manage everything for you.</h4>
+              <div class="w-form">
+                <form id="wf-form-Agency-Inquiry-Form" name="wf-form-Agency-Inquiry-Form" data-name="Agency Inquiry Form" class="form"><label for="name-2" class="field-label-3 w-hidden-main w-hidden-medium w-hidden-small w-hidden-tiny">Name</label><input type="text" class="text-field w-input" maxlength="256" name="name-2" data-name="Name 2" placeholder="Full Name" id="name-2" required="" /><label class="field-label-3 w-hidden-main w-hidden-medium w-hidden-small w-hidden-tiny">Company Name</label><input type="text" class="text-field w-input" maxlength="256" name="Company-Name" data-name="Company Name" placeholder="Company Name" id="Company-Name" required="" /><label for="email-2" class="field-label-4 w-hidden-main w-hidden-medium w-hidden-small w-hidden-tiny">Email Address</label><input type="text" class="text-field w-input" maxlength="256" name="email-2" data-name="Email 2" placeholder="Email" id="email-2" required="" /><input type="tel" class="w-input" maxlength="256" name="Phone" data-name="Phone" placeholder="Phone" id="Phone" required="" /><input type="text" class="w-input" maxlength="256" name="Link" data-name="Link" placeholder="Link to Site" id="Link" required="" /><input type="submit" value="Submit" data-wait="Please wait..." class="submit-button w-button" /></form>
+                <div class="w-form-done">
+                  <div>Thank you! Your submission has been received!</div>
+                </div>
+                <div class="w-form-fail">
+                  <div>Oops! Something went wrong while submitting the form.</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="tablet-div-block-13">
+        <div class="tablet-row56 w-row">
+          <div class="w-clearfix w-col w-col-6">
+            <div class="div-block-12">
+              <h2 class="heading-11">Are you a Christian Publisher?</h2>
+              <h4 class="heading-15">The Beacon Ad Network is always looking for new sites to partner with. Do you have great content you would like to monetize? <br/>Send us your info!</h4>
+              <div class="form-block-3 w-form">
+                <form id="wf-form-Publisher-Inquiry-Form" name="wf-form-Publisher-Inquiry-Form" data-name="Publisher Inquiry Form"><label for="name-3" class="field-label-5 w-hidden-main w-hidden-medium w-hidden-small w-hidden-tiny">Name</label><input type="text" class="text-field w-input" maxlength="256" name="name-3" data-name="Name 3" placeholder="Full Name" id="name-3" required="" /><input type="text" class="text-field w-input" maxlength="256" name="field" data-name="Field" placeholder="Site Url" id="field" required="" /><label for="email-3" class="field-label-6 w-hidden-main w-hidden-medium w-hidden-small w-hidden-tiny">Email Address</label><input type="text" class="text-field w-input" maxlength="256" name="email-3" data-name="Email 3" placeholder="Email" id="email-3" required="" /><input type="submit" value="Submit" data-wait="Please wait..." class="submit-button w-button" /></form>
+                <div class="w-form-done">
+                  <div>Thank you! Your submission has been received!</div>
+                </div>
+                <div class="w-form-fail">
+                  <div>Oops! Something went wrong while submitting the form.</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="desk-column2 w-clearfix w-col w-col-6"><img src="https://assets.website-files.com/5a838955b22a1a0001922b07/5a84fddc3aa1e00001eada78_jeshoots-com-219388.jpg" width="777" alt="man writing in a notebook and laptop" srcset="https://assets.website-files.com/5a838955b22a1a0001922b07/5a84fddc3aa1e00001eada78_jeshoots-com-219388-p-1080.jpeg 1080w, https://assets.website-files.com/5a838955b22a1a0001922b07/5a84fddc3aa1e00001eada78_jeshoots-com-219388-p-1600.jpeg 1600w, https://assets.website-files.com/5a838955b22a1a0001922b07/5a84fddc3aa1e00001eada78_jeshoots-com-219388-p-2000.jpeg 2000w, https://assets.website-files.com/5a838955b22a1a0001922b07/5a84fddc3aa1e00001eada78_jeshoots-com-219388-p-2600.jpeg 2600w, https://assets.website-files.com/5a838955b22a1a0001922b07/5a84fddc3aa1e00001eada78_jeshoots-com-219388-p-3200.jpeg 3200w, https://assets.website-files.com/5a838955b22a1a0001922b07/5a84fddc3aa1e00001eada78_jeshoots-com-219388.jpg 4200w" sizes="(max-width: 479px) 96vw, (max-width: 767px) 97vw, 48vw" class="image-11" /></div>
+        </div>
+      </div>
+      <div class="phone-div-block-14">
+        <div class="container-2 w-container">
+          <h2 class="heading-12">Need Help? Got Questions?</h2>
+          <p class="paragraph-4">Get help from real humans! Really!</p>
+        </div>
+        <div class="desk-form-block-4 w-form">
+          <form id="wf-form-FAQ-Form" name="wf-form-FAQ-Form" data-name="FAQ Form" class="form-2"><label for="name-4" class="field-label w-hidden-main w-hidden-medium w-hidden-small w-hidden-tiny">Name:</label><input type="text" class="text-field w-input" maxlength="256" name="name-4" data-name="Name 4" placeholder="Enter your full name" id="name-4" required="" /><label for="email-4" class="field-label-2 w-hidden-main w-hidden-medium w-hidden-small w-hidden-tiny">Email Address:</label><input type="text" class="text-field w-input" maxlength="256" name="email-4" data-name="Email 4" placeholder="Enter your email" id="email-4" required="" /><select id="Selection" name="Selection" required="" data-name="Selection" class="select-field w-select"><option value="Title">Are you a publisher or advertiser?</option><option value="First Choice">Publisher</option><option value="Second Choice">Advertiser</option><option value="Third Choice">Other</option></select><textarea id="field-2" name="field-2" placeholder="How can we help you?" maxlength="5000" required="" class="textarea w-input"></textarea><input type="submit" value="Submit" data-wait="Please wait..." class="submit-button w-button" /></form>
+          <div class="w-form-done">
+            <div>Thank you! Your submission has been received!</div>
+          </div>
+          <div class="w-form-fail">
+            <div>Oops! Something went wrong while submitting the form.</div>
+          </div>
+        </div>
+      </div>
+      <div class="div-block-15">
+        <div class="text-block-2">© 2008 - 2020 Beacon Ads LLC. <a href="https://marketplace.beaconads.com/about/refunds" target="_blank" class="small-footer-link"></a></div>
+        <div class="w-embed"></div>
+      </div>
+    </div>
+    <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.4.1.min.220afd743d.js?site=5a838955b22a1a0001922b07" type="text/javascript" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <script src="https://assets.website-files.com/5a838955b22a1a0001922b07/js/webflow.3801ac7c1.js" type="text/javascript"></script>
+    <!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]-->
+  </body>
+</html>
