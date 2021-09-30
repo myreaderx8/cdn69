@@ -1,0 +1,831 @@
+
+    <!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0"> -->
+	<meta name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1" />
+
+	<title>Bad Church Leadership | Blog | Think Theology</title>
+	<meta name="keywords" content="Think Theology, Theology Forum, Theology papers, theology resources, theology events, doctrine, David Stroud, Mick Taylor, andrew wilson, matthew hosier, matt hosier, What you think matters, studying god, religious truth, study of the divine"
+	/>  
+	<meta property="og:title" content="Bad Church Leadership" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://thinktheology.co.uk/blog/article/bad_church_leadership" />
+	<meta property="og:image" content="https://thinktheology.co.uk/images/uploads/Mere_Fi.jpg" />
+	<meta property="og:site_name" content="What You Think Matters" />
+	<meta property="og:description" content="The Mars Hill podcast has prompted a host of good questions about bad church leadership and what to do about it. In this week&apos;s Mere Fidelity episode I talk about it with Matt Anderson and Alastair Roberts; it was a fascinating conversation (at least for me), in which I learned a lot." />
+	<meta name="description" content="The Mars Hill podcast has prompted a host of good questions about bad church leadership and what to do about it. In this week&apos;s Mere Fidelity episode I talk about it with Matt Anderson and Alastair Roberts; it was a fascinating conversation (at least for me), in which I learned a lot." />  
+	<link rel="alternate" type="application/rss+xml" title="Think Theology RSS Feed" href="https://thinktheology.co.uk/rss">
+
+	<!-- Fonts -->
+	<link href='https://fonts.googleapis.com/css?family=Source+Code+Pro:300,500,600' rel='stylesheet' type='text/css'>
+	<script type="text/javascript" src="//use.typekit.net/zyy6hae.js"></script>
+	<script type="text/javascript">try {Typekit.load();} catch (e) { }</script>
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="https://thinktheology.co.uk/css/screen.css" media="screen" type="text/css" />
+	<link rel="stylesheet" href="https://thinktheology.co.uk/css/print.css" media="print" type="text/css" />
+
+	<!-- favion & icons -->
+	<link rel="shortcut icon" href="https://thinktheology.co.uk/favicon.ico?v=2" />
+
+	<link rel="apple-touch-icon" href="https://thinktheology.co.uk/images/icons/apple-touch-icon.png" />
+	<link rel="apple-touch-icon" sizes="57x57" href="https://thinktheology.co.uk/images/icons//apple-touch-icon-57x57.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="https://thinktheology.co.uk/images/icons/apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="https://thinktheology.co.uk/images/icons/apple-touch-icon-76x76.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="https://thinktheology.co.uk/images/icons/apple-touch-icon-114x114.png" />
+	<link rel="apple-touch-icon" sizes="120x120" href="https://thinktheology.co.uk/images/icons/apple-touch-icon-120x120.png" />
+	<link rel="apple-touch-icon" sizes="144x144" href="https://thinktheology.co.uk/images/icons/apple-touch-icon-144x144.png" />
+	<link rel="apple-touch-icon" sizes="152x152" href="https://thinktheology.co.uk/images/icons/apple-touch-icon-152x152.png" />
+
+	<link rel="alternate" type="application/rss+xml" href="https://thinktheology.co.uk/rss" title="Main RSS Feed" />
+	<link rel="alternate" type="application/rss+xml" href="https://thinktheology.co.uk/rss/papers-feed" title="Papers RSS Feed" />
+	<link rel="alternate" type="application/rss+xml" href="https://thinktheology.co.uk/rss/blog-feed" title="Blog RSS Feed" />
+
+	<!-- JS -->
+	<script type="text/javascript" src="https://thinktheology.co.uk/js/modernizr-ck.js"></script>
+	<script>
+		// Picture element HTML5 shiv
+		document.createElement("picture");
+	</script>
+	<script src="https://thinktheology.co.uk/js/picturefill.min.js" async></script>
+
+	<!-- emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8 -->
+	<!--[if lt IE 9]>
+			<script type="text/javascript" src="https://thinktheology.co.uk/js/selectivizr-min.js"></script>
+		<![endif]-->
+
+</head>
+
+<body  data-baseurl="https://thinktheology.co.uk/">
+	<div class="wrapper clearfix">
+		<div class="inner-wrapper clearfix">
+			<header role="banner">
+				<div class="topbar clearfix">
+					<a class="logo" href="https://thinktheology.co.uk/">
+						<h1 class="sprite ir logo-h1">Think</h1>
+					</a>
+					<a class="sprite menu-icon mtoggle"></a>
+
+					<!--
+						<div class="social-top clearfix last-col">
+							<a href="#" target="_blank"><span class="twitter-icon sprite"></span></a>
+							<a href="#" target="_blank"><span class="rss-icon sprite" class="sprite"></span></a>
+						</div>
+						-->
+
+					<span class="topdate last-col">
+						<time datetime="2021-09-30T18:00:23+01:00">Thursday 30 September</time>					</span>
+					<div class="four-col search-top">
+						<form class="form-wrapper clearfix" action="https://thinktheology.co.uk/search/results" method="post" autocomplete="off">
+							<input name="keywords" class="search" placeholder="Search the site..." required>
+							<button class="sprite ir" type="submit"></button>
+							<br />
+
+							<fieldset class="checkboxes clearfix">
+								<legend>Include:</legend>
+								<input id="chkTitle" class="css-checkbox" type="checkbox" name="search_in[]" value="title" checked/>
+
+								<input id="chkTags" class="css-checkbox" type="checkbox" name="search_in[]" value="|article-tags|article-series-tag|article-people-tag"
+								 checked/>
+								<label for="chkTags" class="css-label">Tags</label>
+
+
+								<input id="chkBody" class="css-checkbox" type="checkbox" name="search_in[]" value="|article-body|article-summary" checked/>
+								<label for="chkBody" class="css-label">Article</label>
+							</fieldset>
+						</form>
+					</div>
+				</div>
+
+				<nav class="clearfix" role="navigation">
+					<ul class="two-col">
+						<li class="nav-top-item">
+							<a href="https://thinktheology.co.uk/blog">Blog</a>
+						</li>
+					</ul>
+
+					<ul class="two-col">
+						<li class="nav-top-item">
+							<a href="https://thinktheology.co.uk/about">What is THINK?</a>
+						</li>
+					</ul>
+
+					<ul class="two-col">
+						<li class="nav-top-item">
+							<a href="https://thinktheology.co.uk/about/authors">Authors</a>
+						</li>
+					</ul>
+
+					<ul class="two-col nav-last-item">
+						<li class="nav-top-item">
+							<a href="https://thinktheology.co.uk/contact">Contact Us</a>
+						</li>
+					</ul>
+
+					<!-- <ul class="two-col">
+							<li class="nav-top-item"><a href="https://thinktheology.co.uk/blog">Blog</a></li>
+							<li><a href="https://thinktheology.co.uk/where-to-start" class="nav-top-item">Where To Start</a></li>
+							<li><a href="https://thinktheology.co.uk/series" class="nav-top-item">Series</a></li>
+							<li><a href="https://thinktheology.co.uk/most-popular" class="nav-top-item">Most Popular</a></li>
+						</ul>
+						
+						<ul class="two-col">
+							<li class="nav-top-item"><a href="https://thinktheology.co.uk/resources">Resources</a></li>
+							<li><a href="https://thinktheology.co.uk/resources/audio-and-video" class="nav-top-item">Audio & Video</a></li>
+							<li><a href="https://thinktheology.co.uk/resources/books" class="nav-top-item">Books</a></li>
+							<li><a href="https://thinktheology.co.uk/resources/conferences-and-events" class="nav-top-item">Conferences &amp; Events</a></li>
+						</ul>				
+				
+						<ul class="two-col">
+							<li class="nav-top-item"><a href="https://thinktheology.co.uk/key-themes">Key Themes</a></li>
+							<li><a href="https://thinktheology.co.uk/key-themes/apologetics" class="nav-top-item">Apologetics</a></li>
+							<li><a href="https://thinktheology.co.uk/key-themes/hermeneutics" class="nav-top-item">Hermeneutics</a></li>
+							<li><a href="https://thinktheology.co.uk/key-themes/church-history" class="nav-top-item">Church History</a></li>
+						</ul>			
+							
+						<ul class="two-col nav-last-item">
+							<li class="nav-top-item"><a href="https://thinktheology.co.uk/about">About Us</a></li>
+							<li><a href="https://thinktheology.co.uk/about" class="nav-top-item">What is THINK?</a></li>
+							<li><a href="https://thinktheology.co.uk/about/authors" class="nav-top-item">Authors</a></li>
+							<li><a href="https://thinktheology.co.uk/contact" class="nav-top-item">Contact Us</a></li>
+						</ul> -->
+
+					<div class="four-col last-col clearfix">
+
+						<div class="one-col social-nav clearfix last-col">
+							<a href="https://twitter.com/thinktheology" target="_blank" title="Twitter @thinktheology">
+								<span class="twitter-icon sprite"></span>
+							</a>
+							<a href="https://thinktheology.co.uk/rss" target="_blank" title="Think RSS Feed">
+								<span class="rss-icon sprite"></span>
+							</a>
+						</div>
+
+						<form class="form-wrapper clearfix" action="https://thinktheology.co.uk/search/results" method="post" autocomplete="off" role="search">
+							<div class="three-col search-nav">
+								<input name="keywords" class="search" placeholder="Search the site..." required>
+								<button class="sprite ir" type="submit"></button>
+								<br />
+								<a class="search-toggle">Advanced Search
+									<span class="sprite drop-arrow"></span>
+									<span class="sprite dropped-arrow"></span>
+								</a>
+							</div>
+
+							<div class="advanced-search">
+
+								<div class="adv-search-options">
+									<div class="date-range clearfix last-col">
+										<div class="six-col">
+											<span>Date from:</span>
+											<input id="datefrom" type="text" value="" />
+											<input class="hidden" id="datefromAlt" type="text" name="entry_date-from" value="" />
+										</div>
+										<div class="six-col last-col">
+											<span>Date to:</span>
+											<input id="dateto" type="text" value="" />
+											<input class="hidden" id="datetoAlt" type="text" name="entry_date-to" value="" />
+										</div>
+									</div>
+
+									<fieldset class="checkboxes clearfix">
+										<legend>Include:</legend>
+										<input id="chkReset" class="css-checkbox" type="checkbox" name="search_in[]" value="default" checked/>
+
+
+										<input id="chkTitle2" class="css-checkbox" type="checkbox" name="search_in[]" value="|title" checked/>
+										<label for="chkTitle2" class="css-label">Title</label>
+
+
+										<input id="chkTags2" class="css-checkbox" type="checkbox" name="search_in[]" value="|article-tags|article-series-tag|article-people-tag"
+										 checked/>
+										<label for="chkTags2" class="css-label">Tags</label>
+
+
+										<input id="chkBody2" class="css-checkbox" type="checkbox" name="search_in[]" value="|article-body|article-summary" checked/>
+										<label for="chkBody2" class="css-label">Article</label>
+										<!--
+											<input id="chkTag2" class="css-checkbox" type="checkbox" name="search_in" value = "article-tags" checked/>
+											<label for="chkTag2" name="pub_lbl" class="css-label">Tags</label>		
+-->
+									</fieldset>
+
+								</div>
+							</div>
+						</form>
+					</div>
+				</nav>
+
+				<nav id="mobile" role="navigation">
+					<ul id="mmenu">
+						<li>
+							<a href="https://thinktheology.co.uk/blog">Blog</a>
+						</li>
+						<li>
+							<a href="https://thinktheology.co.uk/about">What is THINK?</a>
+						</li>
+						<li>
+							<a href="https://thinktheology.co.uk/about/authors">Authors</a>
+						</li>
+						<li>
+							<a href="https://thinktheology.co.uk/contact">Contact Us</a>
+						</li>
+
+						<!-- <li><a href="#" class="submenu-tog1">Blog</a>
+					        	<ul class="submenu1">
+					        		<li><a href="https://thinktheology.co.uk/blog" class="nav-top-item">/ Most Recent</a></li>	
+									<li><a href="https://thinktheology.co.uk/where-to-start" class="nav-top-item">/ Where To Start</a></li>
+									<li><a href="https://thinktheology.co.uk/series" class="nav-top-item">/ Series</a></li>
+									<li><a href="https://thinktheology.co.uk/most-popular" class="nav-top-item">/ Most Popular</a></li>				
+								</ul>
+					        <li><a href="https://thinktheology.co.uk/resources">Resources</a></li>
+					        <li><a href="https://thinktheology.co.uk/key-themes">Key Themes</a></li>
+					        <li><a href="#" class="submenu-tog">About Us</a>
+					        	<ul class="submenu">
+									<li><a href="https://thinktheology.co.uk/about" class="nav-top-item">/ What is THINK?</a></li>
+									<li><a href="https://thinktheology.co.uk/about/authors" class="nav-top-item">/ Authors</a></li>
+									<li><a href="https://thinktheology.co.uk/contact" class="nav-top-item">/ Contact Us</a></li>
+								</ul>
+					        </li>
+					        <li><a href="#" class="submenu-tog2">Search</a>
+					        	<ul class="submenu2">
+									<li class="clearfix">
+										
+										<div class="twelve-col search-top search-mobile">
+											<form class="form-wrapper clearfix" action="https://thinktheology.co.uk/search/results" method="post" autocomplete="off">								<div class="search-wrap clearfix">
+												    <input name="keywords" class="search" placeholder="Search the site..." required>
+												    <button class="sprite ir" type="submit"></button><br />
+												</div>			    
+									            <fieldset class="checkboxes clearfix"><legend>Include:</legend>
+											            	<input id="chkTitle4" class="css-checkbox" type="checkbox" name="search_in[]" value="title" checked/>
+											            
+															<input id="chkTags4" class="css-checkbox" type="checkbox" name="search_in[]" value="|article-tags|article-series-tag|article-people-tag" checked/>
+															<label for="chkTags4" class="css-label">Tags</label>
+															
+															
+															<input id="chkBody4" class="css-checkbox" type="checkbox" name="search_in[]" value="|article-body|article-summary" checked/>
+															<label for="chkBody4" class="css-label">Article</label>								
+										        </fieldset>
+											</form>   
+										</div>											
+										
+									</li>
+								</ul>
+					        </li>  -->
+					</ul>
+				</nav>
+
+								<nav class="breadcrumb">
+
+					
+					<a href="https://thinktheology.co.uk/">Home</a> / 					<a href="https://thinktheology.co.uk/blog">
+						Blog					</a> /  Bad Church Leadership  				</nav>
+							</header>
+		</div>
+
+		<div class="inner-wrapper">
+			<main role="main" class="clearfix">
+
+
+
+<div class="content eight-col clearfix article-content">
+    <div class="next-prev-entries clearfix">
+        
+                            
+                    <div class="prev-entry">
+                        <a href="https://thinktheology.co.uk/blog/article/war_what_is_it_good_for1" title="View the previous blog article"><span class="prev-icon"></span>&#8592; Prev article</a>
+                    </div>
+                
+                
+                
+                    <div class="next-entry">
+                        <a href="https://thinktheology.co.uk/blog/article/thanksgiving_is_foundational" title="View the next blog article">Next article &#8594;<span class="next-icon"></span></a>
+                    </div>
+                
+                    
+    </div>				
+
+    <article class="blog-article single-entry">
+        			
+            			
+                        <div class="topic-item">			
+                
+                <div class="img-border">				   
+                    <picture>
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source srcset="/images/sized/images/uploads/Mere_Fi-1000x600.jpg" media="(min-width: 1200px)">
+                        <source srcset="/images/sized/images/uploads/Mere_Fi-770x400.jpg" media="(min-width: 768px)">
+                        <source srcset="/images/sized/images/uploads/Mere_Fi-570x300.jpg" media="(min-width: 480px)">	
+                        <source srcset="/images/sized/images/uploads/Mere_Fi-370x175.jpg">
+                        <!--[if IE 9]></video><![endif]-->
+                        <img src="/images/sized/images/uploads/Mere_Fi-770x400.jpg" width="770" height="400"  alt="Bad Church Leadership image" />
+                    </picture>	   
+                </div>
+            </div>
+                        
+            <div class="single-entry-copy">		
+                <h1 class="entry-title">Bad Church Leadership</h1>
+                
+                <div class="blog-share clearfix">
+                    <div class="blog-share-item">
+                        <a class="blog-facebook sprite fbshare" href="https://www.facebook.com/sharer/sharer.php?u=https://thinktheology.co.uk/blog/article/bad_church_leadership" data-url="https://thinktheology.co.uk/blog/article/bad_church_leadership" onclick="window.open(this.href, 'mywin',
+'left=500,top=300,width=500,height=400,toolbar=1,resizable=0'); return false;"></a>
+                        <span class="fb-count">0</span>
+                    </div>
+
+                    <div class="blog-share-item">
+                        <a class="blog-twitter sprite tweet js-tweet" href="#" data-url="https://thinktheology.co.uk/blog/article/bad_church_leadership" data-via="thinktheology" data-text="Bad Church Leadership" data-entryid="4484" data-related="js_fiddle" data-hashtags="leadership"></a>
+                        <span class="count">
+    
+    5
+
+</span>
+                    </div>
+
+                    <div class="blog-share-item">
+                        <a class="blog-gplus sprite" href="https://plus.google.com/share?url=https://thinktheology.co.uk/blog/article/bad_church_leadership" onclick="window.open(this.href, 'mywin',
+'left=500,top=300,width=500,height=400,toolbar=1,resizable=0'); return false;" title="Google+"></a>
+                        <span class="gp-count">0</span>
+                    </div>
+                </div>						
+
+                <p class="entry-meta">By <a href="https://thinktheology.co.uk/authors/21" title="View all posts by this author">Andrew Wilson</a> | Wednesday 8 September 2021</p>
+                
+                                
+                <div class="summary-copy ">
+                    The Mars Hill podcast has prompted a host of good questions about bad church leadership and what to do about it. In this week's Mere Fidelity episode I talk about it with Matt Anderson and Alastair Roberts; it was a fascinating conversation (at least for me), in which I learned a lot.
+                </div>
+                
+                <div class="body-copy">
+                    <p><iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1118959336&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe></p><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/mere-fidelity" title="Mere Fidelity" target="_blank" style="color: #cccccc; text-decoration: none;">Mere Fidelity</a> · <a href="https://soundcloud.com/mere-fidelity/bad-church-leadership" title="Bad Church Leadership" target="_blank" style="color: #cccccc; text-decoration: none;">Bad Church Leadership</a></div>
+                </div>
+            
+                	
+            </div>
+            
+            
+                <div class="prev-entry">
+                    <a href="https://thinktheology.co.uk/blog/article/war_what_is_it_good_for1" title="View the previous blog article"><span class="prev-icon"></span>&#8592; Prev article</a>
+                </div>
+            
+            
+            
+                <div class="next-entry">
+                    <a href="https://thinktheology.co.uk/blog/article/thanksgiving_is_foundational" title="View the next blog article">Next article &#8594;<span class="next-icon"></span></a>
+                </div>
+            
+
+                    
+    
+        <!-- Commenting -->
+        <section id="comments">						
+            
+                
+            
+            
+            <!-- Archived Comments -->
+            
+        
+        </section>
+
+        <section class="related-entries-container">	
+                 
+                                            <h2 class="similar-entries-title">More like this...</h2>			
+                        <ul class="related-entries clearfix">
+                                        <li class="two-col ">
+                        <h2><a href="https://thinktheology.co.uk/blog/article/the_great_leadership_challenge_of_2021">The Great Leadership Challenge of 2021</a></h2>
+                        <p>In a thought-provoking column for <em>The Times</em> last week,...</p>
+                        <span><a class="more-tag" href="https://thinktheology.co.uk/blog/article/the_great_leadership_challenge_of_2021">Read More</a></span>
+                    </li>
+                                     
+                                        <li class="two-col ">
+                        <h2><a href="https://thinktheology.co.uk/blog/article/what_is_the_gospel">What is The Gospel™?</a></h2>
+                        <p>In this week's Mere Fidelity podcast, we talk about the...</p>
+                        <span><a class="more-tag" href="https://thinktheology.co.uk/blog/article/what_is_the_gospel">Read More</a></span>
+                    </li>
+                                     
+                                        <li class="two-col last-col">
+                        <h2><a href="https://thinktheology.co.uk/blog/article/the_baptism_debate">The Baptism Debate</a></h2>
+                        <p>In this week's episode of <a href="https://mereorthodoxy.com/for-and-against-infant-baptism/">Mere Fidelity</a>, Derek Rishmawy and...</p>
+                        <span><a class="more-tag" href="https://thinktheology.co.uk/blog/article/the_baptism_debate">Read More</a></span>
+                    </li>
+                                            </ul>
+                                    
+        </section>
+    </article>  <!-- end single entry -->
+</div>
+
+<aside class="sidebar four-col last-col article-sidebar first-sidebar">
+    <span class="article-arrow" ></span>
+    
+    <h3 class="top-header">Author info</h3>
+    
+    
+        <div class="entry-author clearfix">
+            <div class="entry-author-image">
+                <a href="https://thinktheology.co.uk/authors/21" title="View all posts by this author">
+                                            <img src="https://thinktheology.co.uk/images/member_photos/photo_21.jpg" width="100" alt="Andrew Wilson Photo">		
+                                    </a>
+            </div>
+            
+            <div class="entry-author-info">
+                <h4><a href="https://thinktheology.co.uk/authors/21" title="View all posts by this author">Andrew Wilson</a></h4>
+                
+                <p class="author-bio">
+                    <strong>Bio: </strong><div class="author-bio-copy">Andrew is Teaching Pastor at King's Church London, and has degrees in history and theology from Cambridge (MA), London School of Theology (MTh), and King's College London (PhD). He is an award-winning columnist for <I>Christianity Today</i>, and has written ten books, including <I>Incomparable</I>, <I>Spirit and Sacrament</i> and <I>Sophie and the Heidelberg Cat</I>. Andrew is married to Rachel and they have three children: Zeke, Anna and Samuel.
+
+Views he expresses here are his own, and do not represent those of Newfrontiers or any particular church.</div>                </p>
+                
+                <p>
+                                        <p><strong>Twitter: </strong><a href="http://www.twitter.com/AJWTheology" title="Visit Andrew Wilson's Twitter Page">@AJWTheology</a></p>                </p>
+                <a class="read-more-bio" href="https://thinktheology.co.uk/authors/21">View all posts</a>
+            </div>
+        </div>
+    
+    
+    
+        <div class="single-entry-secondary-data article-primary-image">
+            <h2>Article Tags </h2>
+            
+            <span  class="tag-list series-list">
+                
+            </span>				
+            
+            <ul class="tag-list">
+                
+                      
+                    
+                    <li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/leadership" title="View all enties tagged with leadership">leadership</a></li>
+                
+                      
+                    
+                    <li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/mere_fidelity" title="View all enties tagged with mere fidelity">mere fidelity</a></li>
+                
+            </ul>
+        
+                    </div>
+    
+</aside>	
+
+<aside class="sidebar four-col last-col next-sidebar">
+	<h3>From Across The Blog</h3>
+	<ul class="tag-list series-list">			
+		<li class="group-label">Series</li>
+
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/believe_jesus#series-tags" title="View all entries tagged with believe jesus" data-tag="believe_jesus">believe jesus<span class="tag-count">&nbsp;21</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/straight_to_the_heart#series-tags" title="View all entries tagged with straight to the heart" data-tag="straight_to_the_heart">straight to the heart<span class="tag-count">&nbsp;21</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/paul_and_the_faithfulness_of_god#series-tags" title="View all entries tagged with paul and the faithfulness of god" data-tag="paul_and_the_faithfulness_of_god">paul and the faithfulness of god<span class="tag-count">&nbsp;11</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/heidelberg_catechism#series-tags" title="View all entries tagged with heidelberg catechism" data-tag="heidelberg_catechism">heidelberg catechism<span class="tag-count">&nbsp;10</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/the_real_martin_luther#series-tags" title="View all entries tagged with the real martin luther" data-tag="the_real_martin_luther">the real martin luther<span class="tag-count">&nbsp;7</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/communion#series-tags" title="View all entries tagged with communion" data-tag="communion">communion<span class="tag-count">&nbsp;7</span></a></li>
+		 
+
+		<li class="tag more-tag"><a href="https://thinktheology.co.uk/blog/tags/#series-tags">...View more</a></li>
+	</ul>
+	
+	<ul class="tag-list topic-list">
+		<li class="group-label">Topic</li>
+
+		
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/culture#topic-tags" title="View all entries tagged with culture" data-tag="culture">culture<span class="tag-count">&nbsp;120</span></a></li>
+		
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/coronavirus#topic-tags" title="View all entries tagged with coronavirus" data-tag="coronavirus">coronavirus<span class="tag-count">&nbsp;64</span></a></li>
+		
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/ethics#topic-tags" title="View all entries tagged with ethics" data-tag="ethics">ethics<span class="tag-count">&nbsp;62</span></a></li>
+		
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/politics#topic-tags" title="View all entries tagged with politics" data-tag="politics">politics<span class="tag-count">&nbsp;61</span></a></li>
+		
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/jesus#topic-tags" title="View all entries tagged with jesus" data-tag="jesus">jesus<span class="tag-count">&nbsp;60</span></a></li>
+		
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/heidelberg_catechism#topic-tags" title="View all entries tagged with heidelberg catechism" data-tag="heidelberg_catechism">heidelberg catechism<span class="tag-count">&nbsp;55</span></a></li>
+		
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/books#topic-tags" title="View all entries tagged with books" data-tag="books">books<span class="tag-count">&nbsp;50</span></a></li>
+		
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/church#topic-tags" title="View all entries tagged with church" data-tag="church">church<span class="tag-count">&nbsp;47</span></a></li>
+		
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/prayer#topic-tags" title="View all entries tagged with prayer" data-tag="prayer">prayer<span class="tag-count">&nbsp;45</span></a></li>
+		
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/reviews#topic-tags" title="View all entries tagged with reviews" data-tag="reviews">reviews<span class="tag-count">&nbsp;42</span></a></li>
+		
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/sexuality#topic-tags" title="View all entries tagged with sexuality" data-tag="sexuality">sexuality<span class="tag-count">&nbsp;41</span></a></li>
+		
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/gospel#topic-tags" title="View all entries tagged with gospel" data-tag="gospel">gospel<span class="tag-count">&nbsp;36</span></a></li>
+		 
+	
+		<li class="tag more-tag"><a href="https://thinktheology.co.uk/blog/tags/#topic-tags">...View more</a></li>	
+	</ul>			
+	
+	<ul class="tag-list people-list">				
+		<li class="group-label">People</li>
+
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/n_t_wright#people-tags" title="View all entries tagged with n t wright" data-tag="n_t_wright">n t wright<span class="tag-count">&nbsp;13</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/paul#people-tags" title="View all entries tagged with paul" data-tag="paul">paul<span class="tag-count">&nbsp;10</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/martin_luther#people-tags" title="View all entries tagged with martin luther" data-tag="martin_luther">martin luther<span class="tag-count">&nbsp;9</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/john_piper#people-tags" title="View all entries tagged with john piper" data-tag="john_piper">john piper<span class="tag-count">&nbsp;6</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/tom_wright#people-tags" title="View all entries tagged with tom wright" data-tag="tom_wright">tom wright<span class="tag-count">&nbsp;6</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/doug_wilson#people-tags" title="View all entries tagged with doug wilson" data-tag="doug_wilson">doug wilson<span class="tag-count">&nbsp;6</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/david_bentley_hart#people-tags" title="View all entries tagged with david bentley hart" data-tag="david_bentley_hart">david bentley hart<span class="tag-count">&nbsp;5</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/tim_keller#people-tags" title="View all entries tagged with tim keller" data-tag="tim_keller">tim keller<span class="tag-count">&nbsp;5</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/sam_allberry#people-tags" title="View all entries tagged with sam allberry" data-tag="sam_allberry">sam allberry<span class="tag-count">&nbsp;3</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/steve_chalke#people-tags" title="View all entries tagged with steve chalke" data-tag="steve_chalke">steve chalke<span class="tag-count">&nbsp;3</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/c_s_lewis#people-tags" title="View all entries tagged with c s lewis" data-tag="c_s_lewis">c s lewis<span class="tag-count">&nbsp;3</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/driscoll#people-tags" title="View all entries tagged with driscoll" data-tag="driscoll">driscoll<span class="tag-count">&nbsp;2</span></a></li>
+		 
+	
+		<li class="tag more-tag"><a href="https://thinktheology.co.uk/blog/tags/#people-tags">...View more</a></li>		
+	</ul>
+
+	<h3>Authors</h3>
+	
+	<a href="#" class="grid-toggle">List by author photo</a>
+	<a href="#" class="name-toggle">List by author name</a>
+	
+	<ul class="contributors-photo-grid clearfix">
+		
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/4708" title="Andrew Bunt">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_4708-greyscale-68x68.jpeg" width="68" height="68" class="orig-img" alt="Andrew Bunt"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/21" title="Andrew Wilson">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_21-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Andrew Wilson"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/4701" title="Andrew Haslam">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_4701-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Andrew Haslam"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col last-col" href="https://thinktheology.co.uk/authors/197" title="Andy Johnston">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_197-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Andy Johnston"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col first-col first-col " href="https://thinktheology.co.uk/authors/244" title="Jennie Pollock">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_244-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Jennie Pollock"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/1099" title="Jonny Mellor">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_1099-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Jonny Mellor"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/9" title="Matthew Hosier">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_9-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Matthew Hosier"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/168" title="Phil Moore">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_168-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Phil Moore"/>
+						
+					</a>
+				</li>
+					
+	</ul>
+	
+	<ul class="contributor-name-list">
+		
+            		
+                            <li >
+                    <a href="https://thinktheology.co.uk/authors/4701" title="View all posts by this author" class="contributor-filter">Andrew Haslam</a>
+                </li>
+            		
+                            <li >
+                    <a href="https://thinktheology.co.uk/authors/4708" title="View all posts by this author" class="contributor-filter">Andrew Bunt</a>
+                </li>
+            		
+                            <li >
+                    <a href="https://thinktheology.co.uk/authors/21" title="View all posts by this author" class="contributor-filter">Andrew Wilson</a>
+                </li>
+            		
+                            <li >
+                    <a href="https://thinktheology.co.uk/authors/197" title="View all posts by this author" class="contributor-filter">Andy Johnston</a>
+                </li>
+            		
+                            <li >
+                    <a href="https://thinktheology.co.uk/authors/244" title="View all posts by this author" class="contributor-filter">Jennie Pollock</a>
+                </li>
+            		
+                            <li >
+                    <a href="https://thinktheology.co.uk/authors/1099" title="View all posts by this author" class="contributor-filter">Jonny Mellor</a>
+                </li>
+            		
+                            <li >
+                    <a href="https://thinktheology.co.uk/authors/9" title="View all posts by this author" class="contributor-filter">Matthew Hosier</a>
+                </li>
+            		
+            		
+                            <li class="end-list-item">
+                    <a href="https://thinktheology.co.uk/authors/168" title="View all posts by this author" class="contributor-filter">Phil Moore</a>
+                </li>
+            		
+	</ul>	
+</aside>
+
+	
+			</main>
+			<footer class="clearfix">
+				<a href="#" class="back-to-top">Back to Top</a>
+				
+				<div class="footer-inner clearfix">
+
+						<ul class="two-col">
+							<li class="nav-top-item">Useful Info</li>
+							
+							<li><a href="https://thinktheology.co.uk/info/site-information" title="Site Information">Site Information</a></li>
+							
+							<li><a href="https://thinktheology.co.uk/info/privacy-policy" title="Privacy &amp; Cookie Policy">Privacy &amp; Cookie Policy</a></li>
+							
+						</ul>
+
+						<ul class="two-col sitemap">
+							<li class="nav-top-item">Sitemap</li>
+							<li><a href="https://thinktheology.co.uk/blog" title="Think Theology Blog">Blog</a></li>
+							<li><a href="https://thinktheology.co.uk/resources" title="Think Theology Resources">Resources</a></li>
+							<li><a href="https://thinktheology.co.uk/key-themes" title="Think Theology Key Themes">Key Themes</a></li>
+							<li><a href="https://thinktheology.co.uk/about" title="About Think Theology">About us</a></li>						
+						</ul>
+						
+						<ul class="two-col media">
+							<li class="nav-top-item">Media Streams</li>
+							<li><a href="https://thinktheology.co.uk/rss" title="Think RSS Feed">RSS Feed</a></li>
+							
+							<li><a href="http://twitter.com/thinktheology" title="Theology Forum Twitter Feed">Twitter</a></li>
+							
+						</ul>						
+
+						<ul class="two-col last-col latest-tweet">
+							<li class="nav-top-item"><a href="https://twitter.com/thinktheology" target="_blank" title="Twitter @thinktheology">Latest Tweet</a></li>
+							<li id="recentTweets"></li>
+						</ul>		
+						
+
+<!--
+						<ul class="three-col search-bottom">
+							<form class="form-wrapper clearfix" action="https://thinktheology.co.uk/search/results" method="post" autocomplete="off">
+							    <input name="keywords" class="search" placeholder="Search the site..." required>
+							    <button class="sprite ir" type="submit"></button><br />
+							    					    
+					            <fieldset class="checkboxes clearfix"><span>Include:</span>
+							            	<input id="chkTitle4" class="css-checkbox" type="checkbox" name="search_in[]" value="title" checked/>
+							            
+											<input id="chkTags4" class="css-checkbox" type="checkbox" name="search_in[]" value="|article-tags|article-series-tag|article-people-tag" checked/>
+											<label for="chkTags4" name="tags_lbl" class="css-label">Tags</label>
+											
+											
+											<input id="chkBody4" class="css-checkbox" type="checkbox" name="search_in[]" value="|article-body|article-summary" checked/>
+											<label for="chkBody4" name="body_lbl" class="css-label">Article</label>								
+						        </fieldset>
+							</form>   							
+
+						</ul>
+-->
+											
+						<div class="credit">Design &amp; Development by <a href="http://weareboxhead.com" title="Leeds design agency box-head website">Box-head</a></div>
+				</div>
+			</footer>
+
+		</div> <!-- inner wrapper -->
+	</div> <!-- wrapper -->
+
+	<!-- JS -->
+<script type="text/javascript" src="https://thinktheology.co.uk/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="https://thinktheology.co.uk/js/jquery-ui-ck.js"></script>
+
+<!-- your ALS version -->
+<script type="text/javascript" src="https://thinktheology.co.uk/js/jquery.alsEN-1.3-ck.js"></script>
+
+<script type="text/javascript" src="https://thinktheology.co.uk/js/respond.min.js"></script>
+<script type="text/javascript" src="https://thinktheology.co.uk/js/masonry.pkgd.min.js"></script>
+<!-- <script type="text/javascript" src="https://thinktheology.co.uk/js/imagesloaded.pkgd.min.js"></script> -->
+<script type="text/javascript" src="https://thinktheology.co.uk/js/jquery.qtip.min.js"></script>
+<script type="text/javascript" src="https://thinktheology.co.uk/js/readmore.min.js"></script>
+
+
+<script type="text/javascript" src="https://thinktheology.co.uk/js/min/main-min.js"></script>
+
+<!-- Google plus -->
+<script type="text/javascript">
+	window.___gcfg = {
+	  lang: 'en-US',
+	  parsetags: 'onload'
+	};	
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-7352865-3']);
+	_gaq.push(['_trackPageview']);
+	
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+		
+</script>
+
+
+<script>
+	
+	/* if(keywords = getCookie("keywords")) document.getElementById("search-form").myForm.keywords.value = keywords; */
+
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    // var disqus_shortname = 'thinktheologyuk'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    // (function() {
+    //     var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    //     dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    //     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    // })();
+</script>
+
+<!-- Ref Tagger JS -->
+<script>
+	var refTagger = {
+		settings: {
+			bibleVersion: "ESV",			
+			socialSharing: [],
+			tagChapters: true,
+			customStyle : {
+				heading: {
+					backgroundColor : "#2dbba7",
+					color : "#ffffff"
+				},
+				body   : {
+					color : "#232323",
+					moreLink : {
+						color: "#2dbba7"
+					}
+				}
+			}
+		}
+	};
+	
+	(function(d, t) {
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = "//api.reftagger.com/v2/RefTagger.js";
+		s.parentNode.insertBefore(g, s);
+	}(document, "script"));
+</script>
+
+
+</body>
+</html>
+
